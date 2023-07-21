@@ -13,3 +13,5 @@ __PS side run__:
 Miao-quan Tan, Wai-xi Liu*, Luo J, et al. Adaptive synchronous strategy for distributed machine learning[J]. International Journal of Intelligent Systems, 2022, 37(12): 11713-11741. https://onlinelibrary.wiley.com/doi/10.1002/int.23060  
   
 ![](https://github.com/mqdigihub/A2S/blob/master/figures/the%20overall%20design%20framework%20of%20A2S.jpg)
+
+# Experiments
