@@ -1,6 +1,5 @@
 # A2S
-Adaptive synchronous strategy (A2S) is a distributed training paradigm based on parameter server framework which improves the BSP and ASP paradigms by adaptively adopting different parallel training schemes for workers with different training speeds.  
-![](https://github.com/mqdigihub/A2S/blob/master/figures/the%20overall%20design%20framework%20of%20A2S.jpg)
+Adaptive synchronous strategy (A2S) is a distributed training paradigm based on parameter server framework which improves the BSP and ASP paradigms by adaptively adopting different parallel training schemes for workers with different training speeds.
 # Installation
 Anaconda3  
 Python3.6  
@@ -11,4 +10,6 @@ __Worker side run__:
 __PS side run__:  
   python A2S.py --port ' ' --lr ' ' --decay_rate ' ' --nums_worker ' ' --nums_minibatch ' ' --grads_length ' '   
 # Publication
-Miao-quan Tan, Wai-xi Liu*, Luo J, et al. Adaptive synchronous strategy for distributed machine learning[J]. International Journal of Intelligent Systems, 2022, 37(12): 11713-11741. https://onlinelibrary.wiley.com/doi/10.1002/int.23060
+Miao-quan Tan, Wai-xi Liu*, Luo J, et al. Adaptive synchronous strategy for distributed machine learning[J]. International Journal of Intelligent Systems, 2022, 37(12): 11713-11741. https://onlinelibrary.wiley.com/doi/10.1002/int.23060  
+  
+![](https://github.com/mqdigihub/A2S/blob/master/figures/the%20overall%20design%20framework%20of%20A2S.jpg)
