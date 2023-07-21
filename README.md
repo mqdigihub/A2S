@@ -8,6 +8,6 @@ Tensorflow1.14.0
 __Worker side run__:  
   python vggnet_worker.py --partition ' ' --ip_address ' ' --port ' ' --mini_batchsize ' ' --worker_batchsize ' '  
 __PS side run__:  
-  python A2S.py --lr ' '
+  python A2S.py --port ' ' --lr ' ' --decay_rate ' ' --nums_worker ' ' --nums_minibatch ' ' --grads_length ' '   
 # Publication
 Miao-quan Tan, Wai-xi Liu*, Luo J, et al. Adaptive synchronous strategy for distributed machine learning[J]. International Journal of Intelligent Systems, 2022, 37(12): 11713-11741. https://onlinelibrary.wiley.com/doi/10.1002/int.23060
