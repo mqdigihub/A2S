@@ -14,4 +14,3 @@ Miao-quan Tan, Wai-xi Liu*, Luo J, et al. Adaptive synchronous strategy for dist
   
 ![](https://github.com/mqdigihub/A2S/blob/master/figures/the%20overall%20design%20framework%20of%20A2S.jpg)
 
-# Experiments
